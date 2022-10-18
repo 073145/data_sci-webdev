@@ -11,6 +11,8 @@
 
 # servers,
 # bots...
-# Discord
-# Telegram
-# Twitter
+- Discord
+- Telegram
+- Twitter
+
+# netsec-priv8
