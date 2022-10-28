@@ -1,3 +1,9 @@
+# data science
+# web development
+
+# analytics
+# seo
+
 # web scrap
 - python
 - r
@@ -5,7 +11,6 @@
 - ruby
 - php
 
-# data science...
 # machine learning
 # deep learning
 
