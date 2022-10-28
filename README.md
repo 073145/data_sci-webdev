@@ -1,18 +1,35 @@
-# py, r, javascript, ruby, php...
+# web scrap
+- python
+- r
+- javascript
+- ruby
+- php
 
-# data science, machine learning, 
-# sql, mongodb, json, 
+# data science...
+# machine learning
+# deep learning
 
-# frontend, ux/ui, gui
-# css, html5, xml
+# database
+# sql, mongodb, json
 
-# generative patterns, asemic writing... 
-# ideografia dinâmica, infographs
+# frontend, gui
+- ux/ui
+- css
+- html5
+- xml
 
-# servers,
-# bots...
+# generative patterns...
+- asemic writing 
+- ideografia dinâmica
+- infographs
+
+# servers
+- ...
+
+# bots
 - Discord
 - Telegram
 - Twitter
 
 # netsec-priv8
+- ...
