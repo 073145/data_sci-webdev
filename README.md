@@ -11,17 +11,20 @@
 - ruby
 - php
 
+# frontend, gui
+- ux/ui
+- css
+- html5
+- xml
+
 # machine learning
 # deep learning
 
 # database
 # sql, mongodb, json
 
-# frontend, gui
-- ux/ui
-- css
-- html5
-- xml
+# data visualization
+https://datavizcatalogue.com/
 
 # generative patterns...
 - asemic writing 
