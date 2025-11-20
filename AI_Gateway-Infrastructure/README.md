@@ -18,14 +18,18 @@ Esta seção hospeda a configuração, deploy e documentação das ferramentas q
     * Variáveis de ambiente: `.env.toolbox`
 
 #### Como Rodar (Docker Compose)
+
 ```bash
 # Comando para subir o serviço do Toolbox
 docker-compose up -d ai-toolbox
 ```
 
 Tools Disponíveis
+
 Este gateway expõe as seguintes ferramentas para nossos agentes:
 
 - search_social_metrics: Busca dados agregados do glowing-system.
 
 - vector_search_docs: Busca semântica na nossa base de conhecimento.
+
+---
