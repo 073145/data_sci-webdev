@@ -109,7 +109,7 @@ The content is organized into modules that reflect the data lifecycle.
 * **`05.1-Servers-and-Deployment/`** (`README.md` with guides for deploying apps (Docker, Nginx, etc.))
 * **`05.2-Bots-as-Interfaces/`** (Ex: Discord/Telegram bots that serve data or insights from models)
 * **`05.3-NetSec-and-Privacy/`** (`README.md` with best practices for data security, anonymization, etc.)
-* **`05.34-AI-Gateway-Infrastructure/`**
+* **`05.4-AI-Gateway-Infrastructure/`**
 
 ---
 
